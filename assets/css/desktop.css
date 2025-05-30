@@ -1,0 +1,202 @@
+/* Your styles here */
+html {
+  font-size: 62.5%;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 1.2rem;
+  color: #393d41;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.65;
+}
+h1,
+h2,
+h3 {
+  color: #25a2c3;
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5;
+}
+nav {
+  height: 600px;
+  background-image: url(../img/banner.jpg);
+  background-size: cover;
+  background-position-x: -35px;
+  margin-bottom: 3.5em;
+}
+header {
+  text-align: center;
+}
+header div {
+  background-color: black;
+}
+header img {
+  display: block;
+  width: 150px;
+  padding: 2em;
+  padding-top: 2em;
+}
+header nav h1 {
+  line-height: 1em;
+  font-size: 3.5rem;
+  font-weight: 600;
+  padding-top: 4em;
+  margin-bottom: 1.8rem;
+}
+nav p {
+  font-size: 2rem;
+  line-height: 1.6;
+  font-weight: 300;
+  margin-bottom: 4rem;
+}
+nav button {
+  background-color: #f04c2f;
+  border-color: #f04c2f;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-weight: 500;
+  color: white;
+  padding: 1rem 2.5em;
+  border-radius: 5px;
+  box-shadow: none;
+}
+main {
+  text-align: center;
+}
+.text {
+  text-align: left;
+  margin-left: 10rem;
+}
+.container {
+  margin-top: 13rem;
+  margin-bottom: 8rem;
+}
+.img,
+.text {
+  display: inline-block;
+  vertical-align: top;
+}
+.img {
+  padding-left: 10rem;
+}
+article h3 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1.2rem;
+}
+article p {
+  font-size: 2rem;
+  line-height: 1.6;
+  font-weight: 300;
+  margin-bottom: 2rem;
+}
+article img {
+  width: 400px;
+  border-radius: 50%;
+  margin-bottom: 2em;
+}
+section {
+  margin-top: 5rem;
+  background-color: #e22d0e;
+  color: white;
+  padding: 3rem 0;
+}
+section h2 {
+  color: white;
+  padding-top: 3.5rem;
+  font-size: 3.3rem;
+  font-weight: bold;
+  margin-bottom: 2.5rem;
+}
+section p {
+  font-style: italic;
+  font-size: 1.8rem;
+}
+section h3 {
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  margin-bottom: 0;
+}
+#ceo {
+  font-size: 1.4rem;
+  padding-bottom: 5rem;
+}
+aside {
+  margin-top: 8rem;
+}
+.box {
+  display: inline-block;
+  vertical-align: top;
+  vertical-align: bottom;
+}
+aside div {
+  border: solid 1px #dee1e3;
+  border-radius: 3px;
+  width: 380px;
+  height: 400px;
+  margin-left: 3rem;
+}
+aside div img {
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+aside h3 {
+  font-weight: bold;
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+}
+aside p {
+  font-size: 1.8rem;
+  font-weight: 300;
+  margin-bottom: 3rem;
+  padding: 0 1em;
+}
+footer {
+  text-align: center;
+  background-color: #25a2c3;
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  margin-top: 6rem;
+}
+footer h2 {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  padding-top: 3.5rem;
+  font-size: 3.3rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+}
+footer a {
+  display: block;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+#pixabay {
+  display: inline;
+  font-size: 1.2rem;
+}
+footer address {
+  font-size: 1.4rem;
+  font-weight: 300;
+  margin-bottom: 2.5rem;
+}
+footer p {
+  font-size: 1.2rem;
+  font-weight: 300;
+  padding-bottom: 5rem;
+}
+footer div {
+  border-top: solid 1px white;
+  width: 50%;
+  width: 210px;
+  margin: 0 auto;
+  height: 1px;
+  padding: 2rem 0;
+}
+footer i {
+  color: white;
+  padding-right: 4px;
+}
